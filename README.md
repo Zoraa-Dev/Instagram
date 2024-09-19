@@ -1,6 +1,5 @@
 #### - *Run a Terminal (Termux - Linux) :*
 
-    • rm -rf Premium
     • pkg update && pkg upgrade -y
     • pkg install git
     • pkg install python
